@@ -2,3 +2,10 @@
 __pycache__/
 *.env
 *tokens.json
+schwabdev.egg-info/dependency_links.txt
+schwabdev.egg-info/PKG-INFO
+.gitignore
+schwabdev.egg-info/requires.txt
+schwabdev.egg-info/SOURCES.txt
+schwabdev.egg-info/top_level.txt
+.gitignore
