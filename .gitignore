@@ -147,3 +147,6 @@ cython_debug/
 # User-Specific Files
 *.code-workspace
 
+examples/.env
+examples/.env
+examples/tokens.json
