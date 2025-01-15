@@ -28,7 +28,7 @@ def response_handler(message):
 
 # start the stream and send in what symbols we want.
 streamer.start(response_handler)
-streamer.send(streamer.level_one_equities("AMD,INTC", "0,1,2,3,4,5,6,7,8"))
+streamer.send(streamer.level_one_futures("/ESH25,/NQH25", "0,1,2,3,4,5,6,7,8"))
 
 
 while True: #proccessing on list is done here
